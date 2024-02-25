@@ -13,7 +13,7 @@ programming skills.
 
 ### mady by
 - ruba alhuothali
-- Budur Abdulaziz Alghamdi   
-- Maysam Mohammad Abduljalil 
-- Noran Mousa Almughamisi  
-- Shahd yousef almatrouk  
+- Budur  Alghamdi   
+- Maysam Abduljalil 
+- Noran Almughamisi  
+- Shahd almatrouk  
